@@ -1,3 +1,4 @@
+
 # PyBer_Analysis
 
 ##1 Overview of the analysis
@@ -7,6 +8,7 @@ In this challenge we were given ride share data and using some of the skills we 
 ##2 Results
 
 ###We took our data and used it to tell us different results for 3 city types: Urban, Suburban and Rural. One of the first things I noticed is that the Urban city type had more riders, drivers, and profit than the other types. In the rural area we found there was a total of 125 rides, the average cost was about 34.62 of each ride and there was a total of 78 drivers, bringing in a total profit of $4,327.93. In the suburban area we found there was a total of 625 ride, 490 drivers, average fare of $30.97, which gave the total profit of $19,356.33. For the urban area there as a total of 1,625 rides, 2,405 drivers, total profit of $39,854.38 and an average fare cost of $24.53 [1].
+![pyber](https://user-images.githubusercontent.com/112769590/195755087-a46e7460-e3b6-4049-8170-861cfd7321d7.png)
 
 ##3 Summary
 
